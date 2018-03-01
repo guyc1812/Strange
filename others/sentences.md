@@ -141,23 +141,3 @@
 
 * It looks as if it would snow. +虚拟
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-
-
-
-Why GS
-
-ask for them
