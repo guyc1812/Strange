@@ -1,25 +1,106 @@
 {
-    "category"    : "Thor",
+    "category"    : "Strange",
     "index" : [
         {
-            "category": "Thor",
-            "title":    "Angular",
+            "category": "Strange",
+            "title":    "Node.js",
             "path":     "",
             "nav":      "",
             "status":   310,
             "items":    [
                 {
-                    "category": "Thor",
+                    "category": "Strange",
                     "title":    "Conceptions",
-                    "path":     "angular/angular.md",
-                    "nav":      "Angular-Conceptions",
+                    "path":     "node.js/conception/nodejs.md",
+                    "nav":      "NodeJS-Conceptions",
                     "status":   310,
                     "items":    []
                 },{
-                    "category": "Thor",
-                    "title":    "UI Library",
-                    "path":     "angular/uiLibs.md",
-                    "nav":      "Angular-UILibrary",
+                    "category": "Strange",
+                    "title":    "Express",
+                    "path":     "",
+                    "nav":      "",
+                    "status":   310,
+                    "items":    []
+                }
+            ]
+        },{
+            "category": "Strange",
+            "title":    "DB",
+            "path":     "",
+            "nav":      "",
+            "status":   310,
+            "items":    [
+                {
+                    "category": "Strange",
+                    "title":    "Mongo DB",
+                    "path":     "DB/mongo/mongo.md",
+                    "nav":      "DB-Mongo",
+                    "status":   310,
+                    "items":    []
+                },{
+                    "category": "Strange",
+                    "title":    "MySql",
+                    "path":     "",
+                    "nav":      "",
+                    "status":   310,
+                    "items":    []
+                },{
+                    "category": "Strange",
+                    "title":    "Redis",
+                    "path":     "",
+                    "nav":      "",
+                    "status":   310,
+                    "items":    []
+                },{
+                    "category": "Strange",
+                    "title":    "Influx DB",
+                    "path":     "",
+                    "nav":      "",
+                    "status":   310,
+                    "items":    []
+                }
+            ]
+        },{
+            "category": "Strange",
+            "title":    "Python",
+            "path":     "",
+            "nav":      "",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Strange",
+            "title":    "TCP/IP",
+            "path":     "",
+            "nav":      "",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Strange",
+            "title":    "ShadowSocks",
+            "path":     "ss/ss.md",
+            "nav":      "ShadowSocks",
+            "status":   310,
+            "items":    []
+        },{
+            "category": "Strange",
+            "title":    "Others",
+            "path":     "",
+            "nav":      "",
+            "status":   310,
+            "items":    [
+                {
+                    "category": "Strange",
+                    "title":    "Words",
+                    "path":     "others/words.md",
+                    "nav":      "Others-Words",
+                    "status":   310,
+                    "items":    []
+                },{
+                    "category": "Strange",
+                    "title":    "Sentences",
+                    "path":     "others/sentences.md",
+                    "nav":      "Others-Sentences",
                     "status":   310,
                     "items":    []
                 }
