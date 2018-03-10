@@ -3,7 +3,7 @@
 
 **Libuv is the library that provides the event loop to Node.js.**
 
-![libuv](http://guyuchen.com/deadpool/github/node-libuv.png)
+<img style="max-width:800px;width:100%;height:100%" src="http://guyuchen.com/deadpool/github/node-libuv.png">
 
 ## Misconceptions
 
@@ -45,7 +45,7 @@
 To really understand the event loop we have to understand which work is done in which phase. <br> 
 Showing how the event loop works would be as follows:<br> 
 
-![node-phases](http://guyuchen.com/deadpool/github/node-phases.png)
+<img style="max-width:800px;width:100%;height:100%" src="http://guyuchen.com/deadpool/github/node-phases.png">
 
 * Timers
 
@@ -77,14 +77,5 @@ Showing how the event loop works would be as follows:<br>
 ## Threads in Node.js
 
 <img style="max-width:800px;width:100%;height:100%" src="http://guyuchen.com/deadpool/github/node-threads.png">
-
-
-
-
-
-
-
-
-
 
 refer from [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
