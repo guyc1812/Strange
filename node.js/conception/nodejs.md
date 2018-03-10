@@ -1,3 +1,4 @@
+
 # Node.js Event Loop
 
 **Libuv is the library that provides the event loop to Node.js.**
@@ -75,7 +76,7 @@ Showing how the event loop works would be as follows:<br>
 
 ## Threads in Node.js
 
-![node-threads](http://guyuchen.com/deadpool/github/node-threads.png)
+<img style="max-width:800px;width:100%;height:100%" src="http://guyuchen.com/deadpool/github/node-threads.png">
 
 
 
